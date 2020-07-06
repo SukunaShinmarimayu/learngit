@@ -2,4 +2,8 @@ stributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-Create a new branch is qucik & simple
+<<<<<<< HEAD
+Create a new branch is qucik and simple
+=======
+Create a new branch is qucik and simple
+>>>>>>> feature1
